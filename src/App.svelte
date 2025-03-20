@@ -98,14 +98,5 @@
 		</div>
 
 		
-		<!-- <Dialog>
-			<h3 class="text-lg font-semibold text-gray-800 mt-6">Sign Up for Early Access</h3>
-			<form class="flex flex-col gap-4 mt-4">
-				<Input type="text" placeholder="Full Name" required="" />
-				<Input type="email" placeholder="Work Email" required="" />
-				<Textarea placeholder="What challenges do you face in government project management?" rows="4" required="" />
-				<Button type="submit">Sign Up</Button>
-			</form>
-		</Dialog> -->
 	</div>
 </main>
